@@ -12,7 +12,8 @@ Well suited for airdrops and similar mechanisms in combination with OpenZeppelin
 ## Quick Start
 
 ```
-npm install @openzeppelin/merkle-tree
+npm install https://github.com/coffee-git/merkle-tree
+yarn add https://github.com/coffee-git/merkle-tree
 ```
 
 ### Building a Tree
